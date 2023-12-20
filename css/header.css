@@ -1,0 +1,38 @@
+.position-absolute{
+    margin: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+   
+  }
+
+  .navbar-brand{
+    margin-left: 20px;
+    padding: 50px 30px;
+
+  }
+  .two{
+    margin-left: -20px;
+  }
+  .nav-link{
+    font-size: 20px;
+  }
+  .btn{
+    margin-left: 20px;
+    font-style: normal;
+    margin-right: -20px;
+
+  }
+
+  @media (min-width: 971px) {
+    .navbar-brand {
+      font-size: .5m;
+      padding: .75rem 2rem;
+    }
+  }
+
+  @media (min-width: 1080px) {
+    .navbar-brand {
+      font-size: .3m;
+      padding: .50rem 1rem;
+    }
+  }
